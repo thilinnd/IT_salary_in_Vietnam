@@ -1,4 +1,4 @@
-# Salary Classification Based on Company, Position, and Experience
+# E-recruitement Salary Classification in Vietnam
 
 ## 📌 Introduction
 This project aims to **classify salary levels** using multiple features
