@@ -1,0 +1,276 @@
+pos,skill,group_skill
+28,sql-server,Data Systems
+30,oracle,Data Systems
+38,mysql,Data Systems
+41,rest,Data Systems
+48,hadoop,Data Systems
+59,database,Data Systems
+62,postgresql,Data Systems
+64,machine-learning,Data Systems
+78,mongodb,Data Systems
+82,elasticsearch,Data Systems
+83,apache-spark,Data Systems
+84,nosql,Data Systems
+92,bigdata,Data Systems
+102,json,Data Systems
+115,graphql,Data Systems
+118,redis,Data Systems
+125,cassandra,Data Systems
+137,ajax,Data Systems
+138,data-science,Data Systems
+166,spark,Data Systems
+167,artificial-intelligence,Data Systems
+194,data-warehouse,Data Systems
+197,mariadb,Data Systems
+198,solr,Data Systems
+199,ssis,Data Systems
+200,statistics,Data Systems
+212,hbase,Data Systems
+219,amazon-redshift,Data Systems
+222,firebase,Data Systems
+231,business-intelligence,Data Systems
+237,sap,Data Systems
+257,data-visualization,Data Systems
+261,powerbi,Data Systems
+262,rdbms,Data Systems
+263,sitecore,Data Systems
+267,data,Data Systems
+279,tableau,Data Systems
+29,automation,Development Tools
+43,continuous-integration,Development Tools
+55,selenium,Development Tools
+68,jenkins,Development Tools
+73,git,Development Tools
+98,jira,Development Tools
+107,puppet,Development Tools
+111,cucumber,Development Tools
+120,chef,Development Tools
+132,maven,Development Tools
+144,tomcat,Development Tools
+145,xcode,Development Tools
+148,visual-studio,Development Tools
+157,eclipse,Development Tools
+159,continuous-deployment,Development Tools
+169,sdk,Development Tools
+171,android-studio,Development Tools
+180,gitlab,Development Tools
+195,debugging,Development Tools
+196,github,Development Tools
+203,gradle,Development Tools
+208,lamp,Development Tools
+217,akka,Development Tools
+220,confluence,Development Tools
+226,sharepoint,Development Tools
+239,selenium-webdriver,Development Tools
+244,continuous-delivery,Development Tools
+250,nginx,Development Tools
+280,tfs,Development Tools
+1,java,Languages
+2,javascript,Languages
+3,sql,Languages
+4,python,Languages
+6,c#,Languages
+13,c++,Languages
+14,java-ee,Languages
+21,css,Languages
+23,php,Languages
+27,c,Languages
+35,html,Languages
+42,swift,Languages
+44,ruby,Languages
+46,objective-c,Languages
+50,go,Languages
+52,r,Languages
+53,html5,Languages
+56,typescript,Languages
+58,scala,Languages
+66,kotlin,Languages
+67,tsql,Languages
+74,oop,Languages
+77,clojure,Languages
+79,css3,Languages
+97,vb.net,Languages
+104,xml,Languages
+105,c#-4.0,Languages
+110,algorithm,Languages
+112,sass,Languages
+119,perl,Languages
+136,ecmascript-6,Languages
+147,less,Languages
+153,groovy,Languages
+154,java-8,Languages
+177,functional-programming,Languages
+189,jvm,Languages
+191,elixir,Languages
+193,python-3.x,Languages
+204,matlab,Languages
+205,plsql,Languages
+233,golang,Languages
+238,scripting,Languages
+260,jsp,Languages
+268,data-structures,Languages
+269,delphi,Languages
+5,reactjs,Libs & Frameworks
+9,.net,Libs & Frameworks
+12,spring,Libs & Frameworks
+15,node.js,Libs & Frameworks
+20,angularjs,Libs & Frameworks
+45,asp.net,Libs & Frameworks
+47,angular,Libs & Frameworks
+49,ruby-on-rails,Libs & Frameworks
+60,spring-mvc,Libs & Frameworks
+61,embedded,Libs & Frameworks
+70,api,Libs & Frameworks
+71,qt,Libs & Frameworks
+76,django,Libs & Frameworks
+80,redux,Libs & Frameworks
+85,asp.net-mvc,Libs & Frameworks
+86,react-native,Libs & Frameworks
+87,asp.net-web-api,Libs & Frameworks
+89,vue.js,Libs & Frameworks
+90,symfony2,Libs & Frameworks
+93,jquery,Libs & Frameworks
+96,wordpress,Libs & Frameworks
+99,spring-boot,Libs & Frameworks
+101,react,Libs & Frameworks
+106,hibernate,Libs & Frameworks
+116,wpf,Libs & Frameworks
+121,xamarin,Libs & Frameworks
+123,d3.js,Libs & Frameworks
+124,unity3d,Libs & Frameworks
+127,.net-core,Libs & Frameworks
+130,laravel,Libs & Frameworks
+133,webpack,Libs & Frameworks
+134,wcf,Libs & Frameworks
+143,react-redux,Libs & Frameworks
+151,rx-java,Libs & Frameworks
+152,cocoa,Libs & Frameworks
+155,symfony,Libs & Frameworks
+158,ember.js,Libs & Frameworks
+162,junit,Libs & Frameworks
+164,asp.net-core,Libs & Frameworks
+172,flask,Libs & Frameworks
+173,opengl,Libs & Frameworks
+175,twitter-bootstrap,Libs & Frameworks
+185,express,Libs & Frameworks
+186,tensorflow,Libs & Frameworks
+192,numpy,Libs & Frameworks
+202,entity-framework,Libs & Frameworks
+209,scikit-learn,Libs & Frameworks
+215,pandas,Libs & Frameworks
+224,nodejs,Libs & Frameworks
+225,rxjs,Libs & Frameworks
+228,appium,Libs & Frameworks
+230,backbone.js,Libs & Frameworks
+235,outlook-addin,Libs & Frameworks
+241,webgl,Libs & Frameworks
+246,drupal,Libs & Frameworks
+249,magento,Libs & Frameworks
+258,flutter,Libs & Frameworks
+266,boost,Libs & Frameworks
+272,jest,Libs & Frameworks
+273,keras,Libs & Frameworks
+276,node,Libs & Frameworks
+283,vue,Libs & Frameworks
+8,amazon-web-services,OS & Infrastructure
+10,cloud,OS & Infrastructure
+11,linux,OS & Infrastructure
+17,windows,OS & Infrastructure
+18,web-services,OS & Infrastructure
+19,android,OS & Infrastructure
+25,security,OS & Infrastructure
+31,ios,OS & Infrastructure
+32,docker,OS & Infrastructure
+33,azure,OS & Infrastructure
+40,kubernetes,OS & Infrastructure
+63,networking,OS & Infrastructure
+69,unix,OS & Infrastructure
+75,microservices,OS & Infrastructure
+81,ansible,OS & Infrastructure
+91,apache,OS & Infrastructure
+95,powershell,OS & Infrastructure
+100,terraform,OS & Infrastructure
+108,osx,OS & Infrastructure
+109,bash,OS & Infrastructure
+114,google-cloud-platform,OS & Infrastructure
+117,iphone,OS & Infrastructure
+122,aws,OS & Infrastructure
+126,apache-kafka,OS & Infrastructure
+129,shell,OS & Infrastructure
+131,http,OS & Infrastructure
+135,soap,OS & Infrastructure
+139,vmware,OS & Infrastructure
+141,multithreading,OS & Infrastructure
+149,tcp,OS & Infrastructure
+150,macos,OS & Infrastructure
+156,aws-lambda,OS & Infrastructure
+161,heroku,OS & Infrastructure
+165,iot,OS & Infrastructure
+174,rabbitmq,OS & Infrastructure
+176,distributed-system,OS & Infrastructure
+178,kafka,OS & Infrastructure
+179,salesforce,OS & Infrastructure
+183,ubuntu,OS & Infrastructure
+184,azure-devops,OS & Infrastructure
+188,embedded-linux,OS & Infrastructure
+190,blockchain,OS & Infrastructure
+201,cryptography,OS & Infrastructure
+206,cisco,OS & Infrastructure
+207,infrastructure,OS & Infrastructure
+211,firewall,OS & Infrastructure
+214,openshift,OS & Infrastructure
+218,amazon-ec2,OS & Infrastructure
+229,arm,OS & Infrastructure
+232,containers,OS & Infrastructure
+234,hardware,OS & Infrastructure
+240,voip,OS & Infrastructure
+242,active-directory,OS & Infrastructure
+245,debian,OS & Infrastructure
+247,fpga,OS & Infrastructure
+248,linux-kernel,OS & Infrastructure
+254,rtos,OS & Infrastructure
+255,web,OS & Infrastructure
+256,citrix,OS & Infrastructure
+270,distributed-computing,OS & Infrastructure
+271,firmware,OS & Infrastructure
+274,lambda,OS & Infrastructure
+277,openstack,OS & Infrastructure
+278,robotics,OS & Infrastructure
+282,virtualization,OS & Infrastructure
+16,testing,Process & Methods
+22,agile,Process & Methods
+24,qa,Process & Methods
+26,design,Process & Methods
+34,project-management,Process & Methods
+37,user-interface,Process & Methods
+54,etl,Process & Methods
+57,automated-tests,Process & Methods
+65,user-experience,Process & Methods
+72,scrum,Process & Methods
+88,saas,Process & Methods
+94,tdd,Process & Methods
+113,architecture,Process & Methods
+128,soa,Process & Methods
+142,unit-testing,Process & Methods
+146,model-view-controller,Process & Methods
+160,e-commerce,Process & Methods
+163,mvvm,Process & Methods
+170,serverless,Process & Methods
+181,product-management,Process & Methods
+182,software-design,Process & Methods
+187,uml,Process & Methods
+210,sdlc,Process & Methods
+213,manual-testing,Process & Methods
+216,3d,Process & Methods
+221,design-patterns,Process & Methods
+227,ui,Process & Methods
+236,penetration-testing,Process & Methods
+243,computer-vision,Process & Methods
+251,open-source,Process & Methods
+252,performance,Process & Methods
+253,responsive-design,Process & Methods
+259,graphics,Process & Methods
+264,sre,Process & Methods
+265,web-applications,Process & Methods
+275,mvc,Process & Methods
+281,ux,Process & Methods
